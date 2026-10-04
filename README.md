@@ -1,24 +1,27 @@
 <h1 align="center">
-  ♟️ Welcome to B3ECT0R07's Board ♟️
+  ♟️ Vaibhav Bector | B3ECT0R07 ♟️
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F0D9B5&center=true&vCenter=true&width=550&lines=%E2%99%9F+Full+Stack+Web+Developer;%E2%99%9E+Creator+of+Show+Me+Your+Money;%E2%99%9B+Always+thinking+3+moves+ahead;Welcome+to+my+arena." alt="Chess Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=5266EB&center=true&vCenter=true&width=600&lines=Orchestrating+complex+systems.;Lean+operations+%26+scalable+supply+chains.;Always+thinking+3+moves+ahead." alt="Typing SVG" />
 </p>
 
-<!-- ACTION BUTTONS -->
+<!-- PORTFOLIO / SOCIAL BUTTONS (Using your custom site colors) -->
 <p align="center">
-  <a href="https://github.com/B3ECT0R07?tab=repositories">
-    <img src="https://img.shields.io/badge/All_Projects-b58863?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+  <a href="https://ca.linkedin.com/in/vaibhavbector" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-5266eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-312e2b?style=for-the-badge&logo=linkedin&logoColor=f0d9b5" alt="LinkedIn"/>
+  <a href="mailto:bector2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-70707d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/B3ECT0R07">
+    <img src="https://img.shields.io/badge/Location-Vancouver,_BC-1e1e2a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   </a>
 </p>
 
 ---
 
-### ♟️ The Opening (About Me)
+### ♟️ The Board Setup (Systems & Philosophy)
 
 ```text
   a   b   c   d   e   f   g   h

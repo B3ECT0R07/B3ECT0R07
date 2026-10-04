@@ -1,5 +1,5 @@
 <h2> Hi, I'm Vaibhav Bector! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="220">
+<img align="right" src="./avatar.png" width="180" alt="Vaibhav Bector" style="border-radius: 12px;">
 
 <p><em>Project Manager at <a href="https://www.tormax.com">TORMAX Canada</a> ⚙️<br>
 Supply Chain Engineer & Systems Architect 📊</em></p>
